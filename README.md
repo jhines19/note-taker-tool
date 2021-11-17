@@ -6,7 +6,7 @@
 ## Description
 Using Express.js this server creates an api app that connects to note taking pages. Data persists through fs-module writing to the db.
 
-
+This app is hosted on Heroku at [https://express-sticky-note-server-app.herokuapp.com/](https://express-sticky-note-server-app.herokuapp.com/)
 ## Table of Contents
 If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Installation](#installation)
