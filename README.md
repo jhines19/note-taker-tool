@@ -34,5 +34,5 @@ MIT
 contact repo owner
 
 ## Tests
-npm test | run app and add test note to see if data persists and is added to package.json
+Use Insomnia or Postman to test api endpoints | run app and add test note to see if data persists and is added to package.json
   
